@@ -29,5 +29,6 @@ public class bai3 {
         int tong = hangChuc + hangDonVi;
         
         System.out.printf("%d + %d = %d\n", hangChuc, hangDonVi, tong);
+        scanner.close();
     }
 }

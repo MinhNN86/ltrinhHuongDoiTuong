@@ -31,5 +31,6 @@ public class bai2 {
         System.out.printf("So hang tram: %d\n", hangTram);
         System.out.printf("Hang chuc: %d\n", hangChuc);
         System.out.printf("Hang don vi: %d\n", hangDonVi);
+        scanner.close();
     }
 }
